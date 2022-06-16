@@ -8,7 +8,7 @@ Falcon Gateway Token (FGT) is a governance token for the Falcon Gateway and use 
 FGT is a BEP20 standard token in Binance Smart Chain.
 
 ## Support
-Contact us through our [Discord Server](https://discord.gg/dKppMXZQ)
+Contact us through our [Discord Server](https://discord.gg/dpcTRSpKfb)
 
 
 ## Authors and acknowledgment
